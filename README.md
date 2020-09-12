@@ -2,4 +2,4 @@
 CNN to classify images of Lego mini-figures.
 
 
-!(lego-classification-examples.png?raw=true)
+![Alt text](lego-classification-examples.png??raw=true "A couple Examples")
