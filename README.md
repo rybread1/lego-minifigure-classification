@@ -1,2 +1,2 @@
 # lego-minifigure-classification
-CNN to classify images of lego minifigures.
+CNN to classify images of Lego mini-figures.
